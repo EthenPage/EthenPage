@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EthenPage
-- 👀 I’m interested in html and css
+- 👋 Hi, I’m Mirza Monirul Alam (Ethen)
+- 👀 I’m interested in css
 - 🌱 I’m currently learning css
 - 💞️ I’m looking to collaborate on css
 <!-- - 📫 How to reach me ... -->
