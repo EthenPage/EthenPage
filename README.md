@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mirza Monirul Alam (Ethen)
-- 👀 I’m interested in css
-- 🌱 I’m currently learning css
+- 👀 I’m interested in css + sass
+- 🌱 I’m currently learning sass
 - 💞️ I’m looking to collaborate on css
 <!-- - 📫 How to reach me ... -->
 
