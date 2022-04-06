@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Responsive Design.**
+- 🌱 I’m currently learning **React.**
 
 - 💬 Ask me about **frontend website development.**
 
