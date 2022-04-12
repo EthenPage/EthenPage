@@ -1,5 +1,5 @@
 # Mirza Ethen
-### Also known as Mirza Monirul Alam
+### ![](https://img.shields.io/badge/Also%20known%20as-Mirza%20Monirul%20Alam-blue)
 #### Frontend web developer from Bangladesh.
 
 
