@@ -2,26 +2,24 @@
 ### ![](https://img.shields.io/badge/Also%20known%20as-Mirza%20Monirul%20Alam-blue)
 #### Frontend web developer from Bangladesh.
 
+<h3>My Working Area</h3>
+<p>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Css3" src="https://img.shields.io/badge/-Css-1C2199?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="bootstrap" src="https://img.shields.io/badge/-Bootstrap-0B3837?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass/Scss-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="javascript" src="https://img.shields.io/badge/-javascript-7B3812?style=flat-square&logo=javaScript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-4515d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="gulp" src="https://img.shields.io/badge/-gulp-123837?style=flat-square&logo=gulp&logoColor=white" />
+  <img alt="latex" src="https://img.shields.io/badge/-LaTex-7B3812?style=flat-square&logo=latex&logoColor=white" />
+</p>
 
-
-- 🌱 I’m currently learning **React.**
 
 - 💬 Ask me about **frontend website development.**
 
 - 📫 How to reach me **mirzaethen@exdonuts.com**
 
-
-<!-- Strong Zones -->
-<h3 align="left">My Strong Zones in 2022:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> 
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethenpage)](https://github.com/anuraghazra/github-readme-stats)
